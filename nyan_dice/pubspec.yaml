@@ -1,0 +1,44 @@
+name: nyan_dice
+description: A new Flutter application.
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+
+  assets:
+     - images/
+
+  fonts:
+  - family: Shadows Into Light
+    fonts:
+    - asset: fonts/ShadowsIntoLight-Regular.ttf
+
+  - family: Cinzel
+    fonts:
+    - asset: fonts/Cinzel-Regular.ttf
+
+
