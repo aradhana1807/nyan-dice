@@ -1,2 +1,2 @@
-# nyan_dice
+# nyan_dice app
 
